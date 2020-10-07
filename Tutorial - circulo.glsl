@@ -7,7 +7,7 @@
  *  
  *  @date     07/10/20
  *  
- *  @brief      Meu primeiro shader. Esta eu escrevi no Shader Editor (Android).
+ *  @brief      Meu primeiro shader. Este eu escrevi no Shader Editor (Android).
  */
 #ifdef GL_FRAGMENT_PRECISION_HIGH
 precision highp float;
